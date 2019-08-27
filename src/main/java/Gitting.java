@@ -8,7 +8,7 @@ public class Gitting {
 
         // COF-200 change on 200 branch
 
-        
+
         // COF-500 Changes in 500
     }
 }
